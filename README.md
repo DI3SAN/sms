@@ -7,14 +7,14 @@ Git - https://git-scm.com/
 XAMPP - https://www.apachefriends.org/index.html
 ** Ignore if you already installed these
 
-1. After installation, clone this https://github.com/DietherKenz/sms in your htdocs folder in xampp folder.
+1. After installation, clone this https://github.com/DI3SAN/sms in your htdocs folder in xampp folder.
 2. for cloning:
 3. open cmd then go to local disk c directory then direct it to htdocs folder
 ![image](https://user-images.githubusercontent.com/23739496/136080453-5fee6b92-5ca4-4cc1-b5f8-7a35a64f994f.png)
 4. It should look like this
 5. C:\xampp\htdocs\
-6. after that add this cmd line git clone https://github.com/DietherKenz/sms.git
-7. it should look like this C:\xampp\htdocs\git clone https://github.com/DietherKenz/sms.git 
+6. after that add this cmd line git clone https://github.com/DI3SAN/sms.git
+7. it should look like this C:\xampp\htdocs\git clone https://github.com/DI3SAN/sms.git 
 ![image](https://user-images.githubusercontent.com/23739496/136080488-88ceea20-0854-46d8-ad81-08f2f3625196.png)
 8. then enter
 9. After cloning
